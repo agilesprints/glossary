@@ -4,50 +4,45 @@ A glossary of terms used by Agile Sprints.
 
 ## KPI
 
-Key Performance Indicators.
-Agile KPIs provide guidance for strategic planning, evaluation, and improving operational processes.
-Traditional value management systems tend to focus on task completion within the framework of categorical schedule and cost.
-KPIs are part of a broader family of agile KPIs.
-Agile metrics include lean metrics, which focus on the flow of value from an organization to its customers, and Kanban metrics, which focus on workflow and getting tasks done.
-While most agile metrics are applicable to scrum teams, scrum-specific metrics focus on predictable software delivery, making sure scrum teams deliver maximum value to customers with every iteration.
+A Key Performance Indicator is a measurable value that demonstrates how effectively a company is achieving key business objectives. Organizations use KPIs at multiple levels to evaluate their success at reaching targets.
+High-level KPIs may focus on the overall performance of the business, while low-level KPIs may focus on processes in departments such as sales, marketing, HR, support and others.
+
+A KPI must be SMART:
+- Specific: What exactly do you want to achieve?
+- Measurable: How will you identify that you have achieved your goal?
+- Achievable: Is your goal really attainable?
+- Relevant: Is it relevant to you or, in other words, does it align with where you want to be?
+- Time-bound (or timely): When will you deliver your goal, and what are the key milestones?
 
 ## OKR
 
-Objectives and Key Results.
-OKR: an Agile Goal Setting Framework.
-OKR is a goal setting framework created by Intel and adopted by several Silicon Valley companies.
-So an OKR can be thought of a commitment stated as: I will (Objective) as measured by (this set of Key Results).
-OKR has a set of rules, although not as codified as Scrum.
-Those rules determine what an Objective can be, what Key Results are, and how they work together to measure the achievement of goals.
-Like Scrum, OKR has timeframes, however, these are a lot longer (quarterly and yearly) than two-week sprints.
-Creating OKRs involves first, company leadership deciding what they want to achieve, then teams creating their own OKRs and aligning them to the goals of the company.
+Objectives and Key Results is a collaborative goal-setting tool used by teams and individuals to set challenging, ambitious goals with measurable results. OKRs are how you track progress, create alignment, and encourage engagement around measurable goals.
+
+An Objective is simply what is to be achieved, no more and no less. By definition, objectives are significant, concrete, action-oriented, and (ideally) inspirational. When properly designed and deployed, they’re a vaccine against fuzzy thinking—and fuzzy execution.
+
+Key Results benchmark and monitor how we get to the objective. Effective KRs are specific and time-bound, aggressive yet realistic. Most of all, they are measurable and verifiable. You either meet a key result’s requirements or you don’t; there is no gray area, no room for doubt. At the end of the designated period, typically a quarter, we do a regular check and grade the key results as fulfilled or not.
 
 ## Agile methodology
 
-AGILE methodology is a practice that promotes continuous iteration of development and testing throughout the software development lifecycle of the project.
+The agile methodology is a practice that promotes continuous iteration of development and testing throughout the software development lifecycle of the project.
 In the Agile model, both development and testing activities are concurrent, unlike the Waterfall model.
 
-## SCRUM methodology
+It was popularized by the Manifesto for Agile Software Development. The values and principles espoused in this manifesto were derived from and underpin a broad range of software development frameworks, including Scrum and Kanban.
 
-Agile scrum methodology is a project management system that relies on incremental development.
-Each iteration consists of two- to four-week sprints, where each sprint's goal is to build the most important features first and come out with a potentially deliverable product.
+The principles of agile methodology are:
+- Customer satisfaction
+- Adapt to changes
+- Deliver working software frequently
+- Business people and developers must work together throughout the project
+- Build projects around motivated individuals
+- Adopt face-to-face conversation
+- Working software is the primary measure of progress
+- The sponsors, developers, and users should be able to maintain a constant pace indefinitely
+- Continuous attention to technical excellence and good design enhances agility
+- Simplicity--the art of maximizing the amount of work not done--is essential
+- The best architectures, requirements, and designs emerge from self-organizing teams
+- At regular intervals, the team reflects on how to become more effective
 
-## Sprint
-
-Using Agile project management methodologies, projects are broken down into sprints or iterations.
-These are short, repeatable phases, typically one to four weeks in length.
-Each sprint should result in a draft, prototype or workable version of the final project deliverable.
-
-
-KPIs are part of a broader family of agile KPIs. Agile metrics include lean metrics, which focus on the flow of value from an organization to its customers, and Kanban metrics, which focus on workflow and getting tasks done. While most agile metrics are applicable to scrum teams, scrum-specific metrics focus on predictable software delivery, making sure scrum teams deliver maximum value to customers with every iteration.
-
-## OKR
-
-OKR has a set of rules, although not as codified as Scrum. Those rules determine what an Objective can be, what Key Results are, and how they work together to measure the achievement of goals. Like Scrum, OKR has timeframes, however, these are a lot longer (quarterly and yearly) than two-week sprints. Creating OKRs involves first, company leadership deciding what they want to achieve, then teams creating their own OKRs and aligning them to the goals of the company.
-
-## Agile methodology
-
-Agile is a process by which a team can manage a project by breaking it up into several stages and involving constant collaboration with stakeholders and continuous improvement and iteration at every stage. The Agile methodology begins with clients describing how the end product will be used and what problem it will solve. This clarifies the customer's expectations to the project team. Once the work begins, teams cycle through a process of planning, executing, and evaluating — which might just change the final deliverable to fit the customer's needs better. Continuous collaboration is key, both among team members and with project stakeholders, to make fully-informed decisions.
 
 ## SCRUM methodology
 
@@ -56,8 +51,9 @@ Scrum is widely used by software development teams. In fact it's the most popula
 
 ## Sprint
 
-A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work. Sprints are at the very heart of scrum and agile methodologies, and getting sprints right will help your agile team ship better software with fewer headaches.  
-“With Scrum, a product is built in a series of iterations called sprints that break down big, complex projects into bite-sized pieces," said Megan Cook, Group Product Manager for Jira Software at Atlassian.  
+A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work. Sprints are at the very heart of scrum and agile methodologies, and getting sprints right will help your agile team ship better software with fewer headaches.
+“With Scrum, a product is built in a series of iterations called sprints that break down big, complex projects into bite-sized pieces," said Megan Cook, Group Product Manager for Jira Software at Atlassian.
+
 
 ## Velocity
 
@@ -78,42 +74,39 @@ In the future we will offer tooling and learning to augment your velocity.
 
 ## Feature
 
-
 In agile development, a feature is a chunk of functionality that delivers business value.
 Features can include additions or changes to existing functionality.
 For planning purposes, some agile methodologies also use the notion of "work items" that can include features, bug fixes, documents, and other artifacts
 
-In agile development, a feature is a chunk of functionality that delivers business value. Features can include additions or changes to existing functionality. For planning purposes, some agile methodologies also use the notion of "work items" that can include features, bug fixes, documents, and other artifacts. But features are the main unit of planning. Ideally, a feature should adhere to the following criteria:
-
-It should provide business value
-It should be estimable - it must have enough definition for the development team to provide an estimate of the work involved in implementing it
-It should be small enough to fit within an iteration - therefore, if it is too big, it should be broken down further
-It should be testable - you should understand what automated or manual test a feature should pass in order to be acceptable to the customer
+A feature should:
+- Provide business value
+- Be estimable
+- Be small enough to fit within an iteration
+- Be testable
 
 ## LOCs
 
-Using Lines Of Code (LOCs) as a metric is meaningful on large scales only. So using it project-wise makes sense. Comparing LOCs produced per developer is pointless since their work may differ qualitatively. But comparing the evolution of LOCs sprints-wise gives a macrocopic view of your progress.
+Using Lines Of Code as a metric is meaningful on large scales only. So using it project-wise makes sense. Comparing LOCs produced per developer is pointless since their work may differ qualitatively. But comparing the evolution of LOCs sprints-wise gives a macrocopic view of your progress.
 
 Remember to exclude large autogenerated files from the analysis by setting the exclusion patterns in our app.
 
 ## Commit
 
+Similar to saving a file that's been edited, a commit records changes to one or more files in your project. A commit identifies:
 
-Commit to fulfill the Sprint Goal, which if well-crafted, tells the Development Team members why they are building the Increment.
-Unlike the list of selected Product Backlog Items for the Sprint, the Sprint Goal is coarse enough to allow the Development Team to navigate and satisfy the commitment.
-This avoids anyone blindly expecting that any single selected item will be delivered under any circumstance.
+- The specific changes
+- When the changes were made
+- Who created the changes
 
-Commit to fulfill the Sprint Goal, which if well-crafted, tells the Development Team members why they are building the Increment. Unlike the list of selected Product Backlog Items for the Sprint, the Sprint Goal is coarse enough to allow the Development Team to navigate and satisfy the commitment. This avoids anyone blindly expecting that any single selected item will be delivered under any circumstance.
-
-Commit to assure that they deliver a usable increment at the end of the Sprint, which includes only items that are fully finished according to the Definition of Done that has been agreed to beforehand.
-Commit to continuously inspect and adapt, to better support the empiricism that lies at the heart of Scrum.
-And at the end, commit to the values and elements that build up the framework, which allow us to tell that we are doing Scrum instead of anything else.
+When you make a commit, you must include a commit message that briefly describes the changes. You can also add a co-author on any commits you collaborate on.
 
 ## Pull Request
 
 ## Review
 
 ## Tag
+
+Tags or Releases are deployable software iterations you can package and make available for a wider audience to download and use. They often have a name such as "v1.0.0" or "v3.2.1-beta".
 
 ## Average
 
