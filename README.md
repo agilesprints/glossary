@@ -102,16 +102,20 @@ When you make a commit, you must include a commit message that briefly describes
 
 ## Pull Request
 
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
+
+They should correspond to the tickets you opened. A ticket can typically either tackle a new feature, a bug, or a chore.
+
 ## Review
+
+Reviews allow others to comment on the changes proposed in pull requests, approve the changes, or request further changes before the pull request is merged. It is an incremental process that deliver value to your business by requiring the input of others on one's work.
+
+## Review turnaround
+
+The review turnaround is how much time has passed between the opening of the ticket or the previous review of the same author and the review.
+A large turnaround can mean that the ticket stales or is abandonned.
+You should aim for the quickest turnaround possible to increase your velocity.
 
 ## Tag
 
 Tags or Releases are deployable software iterations you can package and make available for a wider audience to download and use. They often have a name such as "v1.0.0" or "v3.2.1-beta".
-
-## Average
-
-## Median
-
-## Sprint activity
-
-## Review turnaround
